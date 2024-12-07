@@ -42,6 +42,20 @@ void loop() {
 
 ![](https://github.com/DiegoDBG/DHT22/blob/main/PASO%202.png?raw=true)
 
-3.- Hacer la conexion de DHT11 con la ESP32 como se muestra en la siguente imagen.
+3.- Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/DiegoDBG/DHT22/blob/main/PASO%203.png?raw=true)
+
+### Instrucciónes de operación
+- Iniciar simulador.
+- Visualizar los datos en el monitor serial.
+- Colocar la temperatura y humedad dando doble click al sensor DHT22
+### Resultados
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+
+![image](https://github.com/user-attachments/assets/1cef589b-e1c0-4a5d-8c19-5446d531af6d)
+
+### Desarrollado por 
+Diego David Bahena Galan
+
+[GitHub](https://github.com/DiegoDBG)
